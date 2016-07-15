@@ -8,13 +8,13 @@
     "users-found-search-took": "發現 %1 用戶！搜尋只用 %2 秒。",
     "filter-by": "Filter By",
     "online-only": "線上僅有",
-    "invite": "Invite",
-    "invitation-email-sent": "An invitation email has been sent to %1",
-    "user_list": "User List",
-    "recent_topics": "Recent Topics",
-    "popular_topics": "Popular Topics",
-    "unread_topics": "Unread Topics",
-    "categories": "Categories",
-    "tags": "Tags",
-    "no-users-found": "No users found!"
+    "invite": "邀請",
+    "invitation-email-sent": "已經將邀請寄給 %1",
+    "user_list": "使用者名單",
+    "recent_topics": "最近的主題",
+    "popular_topics": "熱門的主題",
+    "unread_topics": "未讀的主題",
+    "categories": "討論區",
+    "tags": "標籤",
+    "no-users-found": "找不到使用者。"
 }
