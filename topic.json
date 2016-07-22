@@ -34,7 +34,7 @@
     "not_following_topic.message": "有人貼文回覆主題時, 你將不會收到通知.",
     "login_to_subscribe": "請先註冊或登錄, 才可訂閱此主題.",
     "markAsUnreadForAll.success": "將全部的主題設為未讀.",
-    "mark_unread": "標示微未讀",
+    "mark_unread": "標示為未讀",
     "mark_unread.success": "主題已經被標示為未讀",
     "watch": "關注",
     "unwatch": "取消關注",

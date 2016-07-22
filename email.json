@@ -1,7 +1,7 @@
 {
     "password-reset-requested": "已要求重設密碼 - %1!",
     "welcome-to": "歡迎來到%1",
-    "invite": "Invitation from %1",
+    "invite": "來自 %1 的邀請",
     "greeting_no_name": "您好",
     "greeting_with_name": "您好，%1",
     "welcome.text1": "歡迎加入%1!",
